@@ -1,0 +1,59 @@
+Day 1: Multithreading
+1.Example: WAP in Java to implement two ways of implementing a Thread counter (extending the Thread class and implementing the Runnable interface).
+2. Write a Program which creates two threads “FirstThread” and “SecondThread”.   Both of these threads will display numbers 1, 2, 3…10 with a one second delay in displaying the next number. ThreadDemo class will be starting these threads “FirstThread” and “SecondThread”.
+Day 2: Multithreading(Synchronization)
+1.  Write a Java program to implement the producer/consumer problem.
+2.  Suppose one class creating a thread, has one string array with values (“Hi”, “How are you?”, “I am also doing fine!”) and another class creating another thread, has another array of strings with values (“Hi!” ,“ I am good. What about you?”, “Great!”). Write a JAVA program to simulate how these two threads can communicate using wait() and notify() methods . Output will be :
+Hi
+Hi!
+How are you?
+I am good. What about you?
+I am also doing fine!
+Great!
+3. Create Two Threads- T1 & T2. T1 will display the prime numbers between 1to 20 & T2 will display the Fibonacci numbers between 1 & 20.
+Day 3 : Streams
+
+Example: WAP in Java to test out various Stream facilities ( Character Stream & Byte Stream) used for Networking purpose.
+Byte Stream & Character Stream related example(Consider the ppt).
+
+Day 4: 
+1) Introduction to the Socket interface in Java.
+2) Explanation of TCP & UDP Protocol.
+3) Study and Explore IP address, Port Address.	
+4) WAP in JAVA using Date Class & InetAddress Class.
+5) Basic Architecture explanation using Cisco Packet Tracer.
+
+Day 5
+1) WAP in Java to implement Simple TCP Client Server Application.
+2)  WAP in Java Where Client requests for a file to server & Server returns copy of  the   file.
+Day 6
+
+1.Write a Java Program to implement UDP Server Client Application. The client will send a string to server and server will capitalize the string and return it back to the client. Client will display the result. 
+
+2. Write a Java Program to implement UDP Time Server Client Application. 
+
+3. The goal of this assignment is to implement a UDP client and server using Java. The server will start in passive mode listening for a transmission from the client. The client will then start and contact the server (on a given IP address and port number). The client will pass the server a string (eg: “network”) up to 80 characters in length taken as input from the user. On receiving a string from a client, the server should: 1) reverse all the characters, and 2) reverse the capitalization of the strings (“network” would now become “KROWTEN”). The server should then send the string back to the client. The client will display the received string and exit. If the client sends, “This is my text to be changed by the SERVER”, the response from the server should be “revres EHT YB DEGNAHC EB OT TXET YM SI SIHt”.
+
+DAY 7
+1. Write a java Program to implement TCP Chat Server Client Application. 
+2. Write a java Program to implement TCP ECHO Server Client Application.
+3. Write a java Program to implement UDP Chat Server Client Application.
+4. Write a java Program to implement UDP Echo Server Client Application.
+Day 8
+1.	Write a java Program to implement TCP Math Server Client Application.
+2.	Write a java program to implement TCP multithreaded Echo Server Client Application.
+Day 9
+1.	Write a java Program to download a web page using URL class.
+2.	Write a java Program to download a binary file from a web site and save it to disk.
+DAY 10
+1.	Write a java Program to implement CRC (Cyclic Redundancy Check) technique.
+2.	Write a java Program to implement TCP Non-blocking Chat Server Client Application.
+3.	Write a java Program to implement TCP Non-blocking Echo Server Client Application.
+
+
+
+
+
+
+
+
